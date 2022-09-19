@@ -1,0 +1,1 @@
+# Kernmodule design patterns
